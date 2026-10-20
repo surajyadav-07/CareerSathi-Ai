@@ -1,16 +1,105 @@
-# React + Vite
+<div align="center">
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+# 🚀 CareerSathi AI
+### 🎯 Your Future. Your Strengths. Your Career.
 
-Currently, two official plugins are available:
+<p>
+  <b>AI-Enabled Career Counselling & Family Decision-Support Platform</b>
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+<p>
+  Helping students discover their strengths, explore career opportunities,
+  and make informed career decisions.
+</p>
 
-## React Compiler
+<br/>
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+<a href="https://career-sathi-ai-nu.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_LIVE_DEMO-Visit_Website-FFB703?style=for-the-badge" alt="Live Demo"/>
+</a>
 
-## Expanding the Oxlint configuration
+<a href="https://github.com/surajyadav-07/CareerSathi-Ai">
+  <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+<br/><br/>
+
+<img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vite-Build_Tool-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-Career_Guidance-FF9F1C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-Active-2ECC71?style=flat-square"/>
+
+</div>
+
+---
+
+## 🌟 About the Project
+
+**CareerSathi AI** is a career counselling platform designed to help
+students understand their strengths, explore suitable career paths,
+and make better-informed educational and career decisions.
+
+The platform aims to make career guidance more accessible, practical,
+and student-friendly while helping families participate in important
+career decisions.
+
+> 💡 Our mission: Help every student move toward a career that matches
+> their interests, strengths, and goals.
+
+---
+
+## ✨ Key Features
+
+| Feature | Description |
+|---|---|
+| 🎯 Career Guidance | Explore career paths based on student interests and goals. |
+| 🧠 AI-Enabled Counselling | Designed to support smarter career exploration. |
+| 📊 Student Dashboard | View career-related information in one place. |
+| 🔍 Career Exploration | Discover different professional and vocational opportunities. |
+| ⚖️ Career Comparison | Compare career options to support decision-making. |
+| 🗺️ Career Roadmap | Explore possible steps toward a career goal. |
+| 👨‍👩‍👧 Family Support | Encourage informed discussions between students and families. |
+| 📱 Responsive UI | Designed for a smoother experience across screen sizes. |
+
+---
+
+## 🎨 UI & Design
+
+- 🌌 Modern navy-blue interface
+- 💛 Yellow highlights and interactive elements
+- 🧡 Orange accents for visual emphasis
+- 📊 Clear, organised dashboard
+- ✨ Student-friendly navigation
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|---|---|
+| ⚛️ React | Building the user interface |
+| ⚡ Vite | Development server and build tool |
+| 🎨 CSS / Tailwind CSS | Styling and responsive design |
+| 🎬 Framer Motion | UI animations, where used |
+| 🎯 Lucide React | Icons, where used |
+| 🚀 Vercel | Website deployment |
+| 🐙 Git & GitHub | Version control and source code hosting |
+
+---
+
+## 🚀 Live Demo
+
+### 👉 [Visit CareerSathi AI](https://career-sathi-ai-nu.vercel.app/)
+
+Explore the deployed application and discover its interface and career-guidance features.
+
+---
+
+## 💻 Run Locally
+
+Follow these steps to run the project on your computer.
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/surajyadav-07/CareerSathi-Ai.git
